@@ -1,0 +1,10 @@
+import Skills from './Home/Skills';
+import Header from './Home/Header';
+import Navbar from './Navbar';
+import Sidebar from './Sidebar';
+import Portfolio from './Home/Portfolio';
+import Services from './Home/Services';
+import SingleProject from './PortfolioDetails/SingleProject';
+import Contact from './Home/Contact';
+import Footer from './Footer';
+export { Header, Skills, Navbar, Sidebar, Portfolio, Services, SingleProject, Contact, Footer };
